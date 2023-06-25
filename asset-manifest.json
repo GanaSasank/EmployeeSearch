@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/EmployeeSearch/static/js/main.6d31b231.js",
+    "index.html": "/EmployeeSearch/index.html",
+    "main.6d31b231.js.map": "/EmployeeSearch/static/js/main.6d31b231.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6d31b231.js"
+  ]
+}
